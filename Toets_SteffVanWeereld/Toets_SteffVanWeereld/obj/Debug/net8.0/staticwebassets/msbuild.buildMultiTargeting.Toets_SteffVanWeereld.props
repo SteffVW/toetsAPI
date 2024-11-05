@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Toets_SteffVanWeereld.props" />
+</Project>

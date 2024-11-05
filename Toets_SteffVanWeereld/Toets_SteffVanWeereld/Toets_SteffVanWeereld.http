@@ -1,0 +1,6 @@
+@Toets_SteffVanWeereld_HostAddress = http://localhost:5175
+
+GET {{Toets_SteffVanWeereld_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
